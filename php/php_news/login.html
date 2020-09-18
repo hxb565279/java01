@@ -1,0 +1,130 @@
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>登录页面</title>
+</head>
+<body>
+
+<h1>用户登录</h1>
+<div style="border:1px solid red;height:200px;width:400px;margin:10px auto;text-align:center">
+    <form class="form" name="form2" action="login.php" method="post">
+        <h3>登录框</h3>
+        <div style="margin-bottom:10px">
+            <label>
+            <input type="text" name="userName" placeholder="用户名" id="entry_name"><br></label>
+        </div>
+        <div style="margin-bottom:10px">
+            <label>
+            <input type="password" name="pwd" placeholder="密码" id="entry_password"><br></label>
+        </div>
+        <label>
+            <input type="button" value="注册" onclick="window.location.href ='register.html'">
+        </label>
+        <label>
+        <input type="submit" id="entry_btn" value="登录" ></label>
+        <br>
+    </form>
+</div>
+<!--<script>-->
+<!--    function getValue(id) {-->
+<!--        return document.getElementById(id).value;-->
+<!--    }-->
+
+<!--    function check() {-->
+<!--        if (getValue('userName') !== 0) {-->
+<!--            if (getValue('pwd') === 0) {-->
+<!--                alert("密码为空");-->
+<!--                return false;-->
+<!--            } else {-->
+<!--                if (getValue('userName').length < 8) {-->
+<!--                    alert("账号不符合规范");-->
+<!--                    return false;-->
+<!--                } else {-->
+<!--                    if (getValue('pwd').length < 6) {-->
+<!--                        alert("密码不符合规范");-->
+<!--                        return false;-->
+<!--                    } else {-->
+<!--                        alert("注册成功");-->
+<!--                        return true;-->
+<!--                    }-->
+<!--                }-->
+<!--            }-->
+<!--        } else {-->
+<!--            if (getValue('pwd') !== 0) {-->
+<!--                alert("账号为空");-->
+<!--                return false;-->
+<!--            } else {-->
+<!--                alert("账号密码为空");-->
+<!--                return false;-->
+<!--            }-->
+<!--        }-->
+<!--    }-->
+<!--</script>-->
+<!--<div class="box3">-->
+<!--    <div class="box">-->
+<!--        <form action="/regiser1" method="post">-->
+<!--            <label>-->
+<!--                账号: <input type="text" name="username1" id="name"-->
+<!--                           placeholder="账号,字母加密码组成,8-16位,小写字母开头">-->
+<!--            </label>-->
+
+<!--            <label>-->
+<!--                密码: <input type="text" name="password1" id="password"-->
+<!--                           placeholder="输入密码,不小于六位">-->
+<!--            </label>-->
+<!--            <div class="box1">-->
+<!--                <label>-->
+<!--                    <input type="button" name="login" value="登录"-->
+<!--                           onclick="window.location.href='index.jsp'">-->
+<!--                </label>-->
+<!--                <label>-->
+<!--                    <input type="submit" name="register" value="普通注册"-->
+<!--                           onclick="return check()">-->
+<!--                </label>-->
+<!--            </div>-->
+<!--        </form>-->
+<!--    </div>-->
+<!--</div>-->
+<!--<script>-->
+<!--    function getValue(id) {-->
+<!--        return document.getElementById(id).value;-->
+<!--    }-->
+
+<!--    let text = getValue('name');-->
+<!--    let re = /^(?![0-9]+$)(?![a-zA-Z]+$)[0-9a-z]{8,16}$/;-->
+<!--    let result = re.test(text);-->
+
+<!--    function check() {-->
+<!--        if (getValue('name') !== 0) {-->
+<!--            if (getValue('password') === 0) {-->
+<!--                alert("密码为空")-->
+<!--                return false;-->
+<!--            } else {-->
+<!--                if (!result && getValue('name').length < 8) {-->
+<!--                    alert("账号不符合规范");-->
+<!--                    return false;-->
+<!--                } else {-->
+<!--                    if (getValue('password').length < 6) {-->
+<!--                        alert("密码不符合规范");-->
+<!--                        return false;-->
+<!--                    } else {-->
+<!--                        alert("注册成功")-->
+<!--                        return true;-->
+<!--                    }-->
+<!--                }-->
+<!--            }-->
+<!--        } else {-->
+<!--            if (getValue('password') !== 0) {-->
+<!--                alert("账号为空");-->
+<!--                return false;-->
+<!--            } else {-->
+<!--                alert("账号密码为空");-->
+<!--                return false;-->
+<!--            }-->
+
+<!--        }-->
+<!--    }-->
+<!--</script>-->
+
+</body>
+</html>
