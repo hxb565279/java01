@@ -1,0 +1,5 @@
+D:\Users\windows\RiderProjects\Solution2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Users\windows\RiderProjects\Solution2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Users\windows\RiderProjects\Solution2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Users\windows\RiderProjects\Solution2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Users\windows\RiderProjects\Solution2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

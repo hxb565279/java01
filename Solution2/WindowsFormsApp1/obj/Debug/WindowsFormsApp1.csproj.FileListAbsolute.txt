@@ -1,0 +1,14 @@
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.index.resources
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.add1.resources
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.selectc.resources
+D:\Users\windows\RiderProjects\Solution2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.D1.resources
