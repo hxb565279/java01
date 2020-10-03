@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="beans" />
         <option value="Class" />
       </list>
     </option>
@@ -24,34 +25,82 @@
   </component>
   <component name="ProjectId" id="1iAVwO3MEXao7hbicbnsmfJsJe9" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../web-01/电商" />
+    <property name="last_opened_file_path" value="J:/源代码/chapter03/WebContent/WEB-INF/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="构件" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16210938" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="应用程序.cglibText">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hxb.aspectj.xml" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\windows\idea-javaee-2020.9.29\ch03\src\com\hxb\aspectj\annotation" />
+      <recent name="D:\Users\windows\idea-javaee-2020.9.29\ch03\src\com\hxb\aspectj\xml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TextAnnotation">
     <configuration name="JDKText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hxb.jdk.JDKText" />
       <module name="ch03" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hxb.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyFactoryBeanText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxb.factorybean.ProxyFactoryBeanText" />
+      <module name="ch03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxb.factorybean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestXmlAspectj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxb.aspectj.xml.TestXmlAspectj" />
+      <module name="ch03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxb.aspectj.xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hxb.aspectj.annotation.TextAnnotation" />
+      <module name="ch03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hxb.aspectj.annotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.cglibText" />
-        <item itemvalue="应用程序.JDKText" />
+        <item itemvalue="Application.TextAnnotation" />
+        <item itemvalue="Application.TestXmlAspectj" />
       </list>
     </recent_temporary>
   </component>
@@ -91,6 +140,11 @@
       <workItem from="1601350833535" duration="1013000" />
       <workItem from="1601374987331" duration="8680000" />
       <workItem from="1601433854841" duration="22000" />
+      <workItem from="1601546958045" duration="7873000" />
+      <workItem from="1601557530942" duration="3160000" />
+      <workItem from="1601624700550" duration="10481000" />
+      <workItem from="1601690537218" duration="981000" />
+      <workItem from="1601712464667" duration="85000" />
     </task>
     <servers />
   </component>
@@ -98,45 +152,109 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="558" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1601390264198">
+    <state x="409" y="139" key="#Inspections" timestamp="1601562477467">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
+    <state x="409" y="139" key="#Inspections/62.0.1474.864@62.0.1474.864" timestamp="1601562477467" />
+    <state x="534" y="252" key="#Notifications" timestamp="1601626472586">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="534" y="252" key="#Notifications/62.0.1474.864@62.0.1474.864" timestamp="1601626472586" />
+    <state x="592" y="289" key="#Scopes" timestamp="1601547710269">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="592" y="289" key="#Scopes/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601547710269" />
+    <state x="558" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1601548670067">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="558" y="65" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601548670067" />
     <state x="558" y="65" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864@62.0.1474.864" timestamp="1601390264198" />
     <state x="383" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1601350635061">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="383" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/62.0.1474.864@62.0.1474.864" timestamp="1601350635061" />
+    <state x="513" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601562507064">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="513" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1474.864@62.0.1474.864" timestamp="1601562507064" />
     <state x="464" y="129" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1601350689721">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="464" y="129" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/62.0.1474.864@62.0.1474.864" timestamp="1601350689721" />
-    <state x="555" y="73" key="FileChooserDialogImpl" timestamp="1601433874586">
+    <state x="280" y="5" key="#项目结构" timestamp="1601551983809">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="555" y="73" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1601433874586" />
-    <state width="1421" height="227" key="GridCell.Tab.0.bottom" timestamp="1601390986405">
+    <state x="280" y="5" key="#项目结构/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601551983809" />
+    <state x="555" y="73" key="FileChooserDialogImpl" timestamp="1601562224336">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1421" height="227" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1601390986405" />
-    <state width="1421" height="227" key="GridCell.Tab.0.center" timestamp="1601390986405">
+    <state x="555" y="73" key="FileChooserDialogImpl/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601549293614" />
+    <state x="555" y="73" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1601562224336" />
+    <state width="1431" height="216" key="GridCell.Tab.0.bottom" timestamp="1601691695873">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1421" height="227" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1601390986405" />
-    <state width="1421" height="227" key="GridCell.Tab.0.left" timestamp="1601390986405">
+    <state width="1431" height="216" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601691695873" />
+    <state width="1414" height="147" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1601557503233" />
+    <state width="1431" height="216" key="GridCell.Tab.0.center" timestamp="1601691695873">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1421" height="227" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1601390986405" />
-    <state width="1421" height="227" key="GridCell.Tab.0.right" timestamp="1601390986405">
+    <state width="1431" height="216" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601691695873" />
+    <state width="1414" height="147" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1601557503233" />
+    <state width="1431" height="216" key="GridCell.Tab.0.left" timestamp="1601691695873">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state width="1421" height="227" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1601390986405" />
-    <state x="152" y="0" key="SettingsEditor" timestamp="1601375066957">
+    <state width="1431" height="216" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601691695873" />
+    <state width="1414" height="147" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1601557503233" />
+    <state width="1431" height="216" key="GridCell.Tab.0.right" timestamp="1601691695873">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="152" y="0" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1601375066957" />
-    <state x="501" y="61" width="661" height="803" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601375065777">
+    <state width="1431" height="216" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601691695873" />
+    <state width="1414" height="147" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1601557503233" />
+    <state width="1416" height="266" key="GridCell.Tab.1.bottom" timestamp="1601654923094">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
+    <state width="1416" height="266" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601654923094" />
+    <state width="1416" height="266" key="GridCell.Tab.1.center" timestamp="1601654923094">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1416" height="266" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601654923094" />
+    <state width="1416" height="266" key="GridCell.Tab.1.left" timestamp="1601654923094">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1416" height="266" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601654923094" />
+    <state width="1416" height="266" key="GridCell.Tab.1.right" timestamp="1601654923094">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1416" height="266" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601654923094" />
+    <state x="-1" y="14" key="SettingsEditor" timestamp="1601562227638">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="152" y="0" key="SettingsEditor/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601549305797" />
+    <state x="-1" y="14" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1601562227638" />
+    <state x="74" y="112" width="1288" height="678" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601561732081">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="74" y="112" width="1288" height="678" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/62.0.1474.864@62.0.1474.864" timestamp="1601561732081" />
+    <state x="155" y="93" width="1288" height="678" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1601561732081">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="155" y="93" width="1288" height="678" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/62.0.1474.864@62.0.1474.864" timestamp="1601561732081" />
+    <state x="449" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601561783065">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="449" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/62.0.1474.864@62.0.1474.864" timestamp="1601561783065" />
+    <state x="391" y="7" key="new project wizard" timestamp="1601712547362">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="391" y="7" key="new project wizard/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601712547362" />
+    <state x="501" y="61" width="661" height="803" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1601549304012">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="501" y="61" key="org.intellij.images.editor.actions.BackgroundImageDialog/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601549304012" />
     <state x="501" y="61" width="661" height="803" key="org.intellij.images.editor.actions.BackgroundImageDialog/62.0.1474.864@62.0.1474.864" timestamp="1601375065777" />
+    <state x="450" y="0" key="spring file set editor" timestamp="1601551981215">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="450" y="0" key="spring file set editor/62.0.1474.864/1920.0.1080.1880@62.0.1474.864" timestamp="1601551981215" />
   </component>
 </project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="ch01:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ch01_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ch01/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="ch01:war exploded" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$PROJECT_DIR$/../../../../编程依赖包/mysql-connector-java-5.1.7/mysql-connector-java-5.1.7-bin.jar" />
+      </element>
+    </root>
+  </artifact>
+</component>
